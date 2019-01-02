@@ -16,3 +16,5 @@ neural machine translator and finally run tester.py with your own text within th
 variable 'phrase' to translate it. Currently does French to English, but loading
 other datasets from that link should work as well as long as the prep_data.py file
 is changed to get that file instead.
+
+![alt text](https://github.com/Harshwin/Comparison_statistical_and_neural_network_for_machine_translation/blob/master/model.png)
